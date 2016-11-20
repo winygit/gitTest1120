@@ -6,7 +6,8 @@ public class App1 {
 
         System.out.println("hello");
         System.out.println("lxx!");
-        System.out.println("/*******2*****/");
+        System.out.println("/*****2*****/");
+        System.out.println("/*******3*****/");
     }
 
 }
