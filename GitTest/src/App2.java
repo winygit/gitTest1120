@@ -7,6 +7,8 @@ public class App2 {
 
         System.out.println("/**************/");
         System.out.println(new Date().toLocaleString());
+
+        System.out.println("/*******2*****/");
     }
 
 }
